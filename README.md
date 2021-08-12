@@ -1,1 +1,9 @@
-# sheep-dog is an interesting question. And we will give 一种可能的解答。
+# sheep-dog
+several tasks will be supported:
+## sheep 
+## sheep extend
+# installation
+```
+cd sheep-dog
+pip install -e .
+```
